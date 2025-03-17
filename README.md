@@ -10,7 +10,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Seriy0904&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <div align="center">
-  <img src="https://www.codewars.com/users/Jamshudanama/badges/large" alt="Codewars Badge"/>
+  <img src="https://www.codewars.com/users/Seriy0904/badges/large" alt="Codewars Badge"/>
 </div>
 
 
